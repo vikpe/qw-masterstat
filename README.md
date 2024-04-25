@@ -3,6 +3,7 @@
 > Get server addresses from QuakeWorld master servers.
 
 ## See also
-* [masterstat-cli](https://github.com/vikpe/masterstat-cli)
-* [serverstat](https://github.com/vikpe/serverstat)
-* [serverstat-cli](https://github.com/vikpe/serverstat-cli)
+* [masterstat-rust](https://github.com/vikpe/masterstat-rust) - Rust version
+* [masterstat-cli](https://github.com/vikpe/masterstat-cli) - CLI version
+* [serverstat](https://github.com/vikpe/serverstat) - Get info from QuakeWorld servers.
+* [serverstat-cli](https://github.com/vikpe/serverstat-cli) - Get info from QuakeWorld servers (CLI)
